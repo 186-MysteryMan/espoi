@@ -15,3 +15,4 @@
             <artifactId>easypoi-annotation</artifactId>
             <version>3.2.0</version>
         </dependency>
+# 开箱就用 配置好导入(出)类 即可完成excel导入导出
